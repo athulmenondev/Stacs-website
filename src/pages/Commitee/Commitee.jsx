@@ -2,9 +2,9 @@ import React from "react";
 import "./Commitee.css";
 import Riya from "./assets/RiyaS.jpg";
 import Achuth from "./assets/Achuth R Kumar.jpg";
-import Sreejith from "./assets/Sreejith M Varma.jpg";
-import Karthik from "./assets/Karthik Krishna S.jpg";
-import Ashish from "./assets/Ashish B.jpg";
+import Abijith from "./assets/Abijith V S.jpg";
+import Keerthana from "./assets/Keerthana.jpg";
+import NandanaKrishnadas from "./assets/Nandana Krishnadas.jpg";
 import DrSruthy from "./assets/Dr.Sruthy Manmadhan.jpg";
 import { FaLinkedin } from "react-icons/fa";
 
@@ -40,27 +40,27 @@ export default function Committee() {
         },
         {
             id: 4,
-            name: "Sreejith M Varma",
+            name: "Abijith V S",
             role: "Joint Secretary",
-            image: Sreejith,
+            image: Abijith,
             socials: {
                 platform: "link",
             },
         },
         {
             id: 5,
-            name: "Karthik Krishna S",
+            name: "Keerthana",
             role: "Treasurer",
-            image: Karthik,
+            image: Keerthana,
             socials: {
                 platform: "link",
             },
         },
         {
             id: 6,
-            name: "Ashish B",
+            name: "Nandana Krishnadas B",
             role: "Join Treasurer",
-            image: Ashish,
+            image: NandanaKrishnadas,
             socials: {
                 platform: "link",
             },
