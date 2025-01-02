@@ -1,5 +1,9 @@
 import "./Home.css";
 import community from "../../assets/hero-img.svg";
+import Section from "./Subcomponents/Section";
+import AboutCse from "./Subcomponents/aboutDepartment";
+import AboutStacs from "./Subcomponents/About";
+
 
 export default function Home() {
     return (
@@ -19,6 +23,15 @@ export default function Home() {
                     </div>
                 </div>
                 <img src={community} alt="community" />
+            </div>
+            <div>
+                <Section/>
+            </div>
+            <div>
+                <AboutStacs/>
+            </div>
+            <div>
+                <AboutCse/>
             </div>
         </div>
     );

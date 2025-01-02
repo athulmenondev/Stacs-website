@@ -1,0 +1,23 @@
+.about-stacs-container {
+    /*background-color: #eaf7ff; Light blue background */
+    padding: 20px;
+    border-radius: 8px;
+    font-family: Arial, sans-serif;
+    line-height: 1.8;
+    color: #333; /* Dark text color */
+    margin-top: 10px;
+  }
+  
+  .about-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+    color: #000; /* Black title color */
+    border-bottom: 4px solid #0dbde8;
+    margin-bottom: 10px;;
+  }
+  
+  .about-description {
+    font-size: 20px;
+    text-align: justify;
+  }
