@@ -7,21 +7,18 @@
     color: #333; /* Dark text color */
     margin-top: 20px;
     /* box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); */
-  }
-  
-  .about-cse-title {
+}
+
+.about-cse-title {
     font-size: 26px;
     font-weight: bold;
     color: #000; /* Black title */
     border-bottom: 4px solid #0dbde8;
     margin-bottom: 10px;
+}
 
-  }
-  
-  
-  .about-cse-description {
+.about-cse-description {
     font-size: 20px;
     line-height: 1.8;
     text-align: justify;
-  }
-  
+}

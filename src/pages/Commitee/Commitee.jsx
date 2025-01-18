@@ -1,7 +1,7 @@
 import React from "react";
 import "./Commitee.css";
 import Riya from "./assets/RiyaS.jpg";
-import Achuth from "./assets/Achuth R Kumar.jpg";
+import Advay from "./assets/Advay P Kishore.jpg";
 import Abijith from "./assets/Abijith V S.jpg";
 import Keerthana from "./assets/Keerthana.jpg";
 import NandanaKrishnadas from "./assets/Nandana Krishnadas.jpg";
@@ -22,18 +22,18 @@ export default function Committee() {
         },
         {
             id: 2,
-            name: "Achuth R Kumar",
+            name: "Riya S",
             role: "Chariman",
-            image: Achuth,
+            image: Riya,
             socials: {
                 platform: "link",
             },
         },
         {
             id: 3,
-            name: "Riya S",
+            name: "Advay",
             role: "Secretary",
-            image: Riya,
+            image: Advay,
             socials: {
                 platform: "link",
             },

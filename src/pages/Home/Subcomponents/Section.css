@@ -7,18 +7,17 @@
     font-family: Arial, sans-serif;
     width: 100%;
     margin-top: 10px;
-  }
-  
-  .arrow {
+}
+
+.arrow {
     color: #f10000; /* Blue for arrows */
     font-size: 24px;
     font-weight: bold;
     cursor: pointer;
     padding: 0 10px;
-  }
+}
 
-  
-  .content {
+.content {
     display: flex;
     align-items: center;
     flex-grow: 1;
@@ -26,10 +25,9 @@
     font-size: 16px;
     color: #000; /* Black text color */
     font-weight: bold;
-  }
-  
-  .icon {
+}
+
+.icon {
     margin-right: 10px;
     color: #00a596; /* Green icon color */
-  }
-  
+}

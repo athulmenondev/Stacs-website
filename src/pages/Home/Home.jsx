@@ -4,7 +4,6 @@ import Section from "./Subcomponents/Section";
 import AboutCse from "./Subcomponents/aboutDepartment";
 import AboutStacs from "./Subcomponents/About";
 
-
 export default function Home() {
     return (
         <div className="home">
@@ -25,13 +24,13 @@ export default function Home() {
                 <img src={community} alt="community" />
             </div>
             <div>
-                <Section/>
+                <Section />
             </div>
             <div>
-                <AboutStacs/>
+                <AboutStacs />
             </div>
             <div>
-                <AboutCse/>
+                <AboutCse />
             </div>
         </div>
     );
